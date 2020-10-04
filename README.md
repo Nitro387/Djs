@@ -4,4 +4,4 @@ Has Moderation commands and Support features Most bots don't have.If you have an
 I will be adding More stuff to this advanced discord.js Bot.
 
 **Djs © Nitr0**
-Authored and maintained by Nitr0.
+> Authored and maintained by Nitr0.
